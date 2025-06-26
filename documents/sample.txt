@@ -1,0 +1,2 @@
+Ollama is a tool that runs large language models locally. It supports models like LLaMA 2, Mistral, and others. It ensures privacy by keeping all data on your device.
+    
